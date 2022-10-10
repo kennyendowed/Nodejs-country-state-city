@@ -1,6 +1,6 @@
 {
-  "name": "nodejs-country-state-city",
-  "version": "3.1.1",
+  "name": "kennycountry-state-city",
+  "version": "3.1.2",
   "description": "Library for fetching Country, its States and Cities",
   "main": "./lib/cjs/index.js",
   "module": "./lib/index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harpreetkhalsagtbit/country-state-city.git"
+    "url": "git+https://github.com/kennyendowed/Nodejs-country-state-city.git"
   },
   "husky": {
     "hooks": {

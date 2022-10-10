@@ -5,7 +5,7 @@ Basic library for Country, State and City
 
 
 # Install
-`npm i nodejs-country-state-city`
+`npm i kennycountry-state-city`
 
 
 
